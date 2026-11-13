@@ -1,0 +1,85 @@
+Gambar milik sendiri untuk lencana grup
+=======================================
+
+Taruh file PNG di folder ini dengan nama di bawah. Gambar itu otomatis
+menggantikan lencana singkatan di bola dunia dan di panel detail.
+Gambar persegi (misalnya 256x256) paling pas. Pakai hanya gambar yang
+memang boleh kamu gunakan, misalnya dari press kit resmi atau dengan izin.
+
+akb48.png                   AKB48
+love.png                    =LOVE
+nogizaka46.png              Nogizaka46
+sakurazaka46.png            Sakurazaka46
+hinatazaka46.png            Hinatazaka46
+morningmusume.png           Morning Musume
+momoirocloverz.png          Momoiro Clover Z
+babymetal.png               BABYMETAL
+fruitszipper.png            FRUITS ZIPPER
+cutiestreet.png             CUTIE STREET
+niziu.png                   NiziU
+arashi.png                  Arashi
+perfume.png                 Perfume
+ske48.png                   SKE48
+nmb48.png                   NMB48
+hkt48.png                   HKT48
+bts.png                     BTS
+blackpink.png               BLACKPINK
+twice.png                   TWICE
+girlsgeneration.png         Girls' Generation
+bigbang.png                 BIGBANG
+exo.png                     EXO
+seventeen.png               SEVENTEEN
+straykids.png               Stray Kids
+aespa.png                   aespa
+ive.png                     IVE
+newjeans.png                NewJeans
+lesserafim.png              LE SSERAFIM
+snh48.png                   SNH48
+tfboys.png                  TFBOYS
+she.png                     S.H.E
+mirror.png                  MIRROR
+jkt48.png                   JKT48
+cherrybelle.png             Cherrybelle
+smsh.png                    SM*SH
+bnk48.png                   BNK48
+mnl48.png                   MNL48
+sb19.png                    SB19
+bini.png                    BINI
+onedirection.png            One Direction
+spicegirls.png              Spice Girls
+littlemix.png               Little Mix
+takethat.png                Take That
+westlife.png                Westlife
+backstreetboys.png          Backstreet Boys
+nsync.png                   *NSYNC
+newkidsontheblock.png       New Kids on the Block
+thejackson5.png             The Jackson 5
+destinyschild.png           Destiny's Child
+katseye.png                 KATSEYE
+cnco.png                    CNCO
+menudo.png                  Menudo
+rbd.png                     RBD
+rouge.png                   Rouge
+tomoshibi.png               Tomoshibi
+nextanative.png             nextanative
+twentynineteens.png         Twenty Nine Teens (TNT)
+merrybadtune.png            Merry BAD TUNE.
+masshironacanvas.png        Masshiro na Canvas (Shirokyan)
+kohisekai.png               Kohi Sekai
+gochikara.png               Gochikara
+minervaland.png             Minerva Land
+chorusela.png               Chorusela
+avenuej.png                 Avenue J
+kirinday.png                Kirin Day
+muses.png                   Muses
+nekodachi.png               Nekodachi
+crescendo.png               Crescendo
+yumepallete.png             Yume Pallete
+amaimonogatari.png          Amai Monogatari
+magickoi.png                MagicKoi
+akemi.png                   Akemi
+
+Grup yang ada di ngidol-data.js otomatis memakai foto dari proyek ngidol,
+jadi tidak perlu file di folder ini.
+notequalme.png              ≠ME
+nearlyequaljoy.png          ≒JOY

@@ -1,0 +1,412 @@
+{
+  "status": true,
+  "message": "Berhasil mendapatkan data",
+  "data": [
+    {
+      "jkt48_member_id": 1,
+      "code": "ABIGAIL_RACHEL",
+      "name": "Abigail Rachel",
+      "nickname": "Aralie",
+      "type": "PASSION"
+    },
+    {
+      "jkt48_member_id": 2,
+      "code": "ADELINE_WIJAYA",
+      "name": "Adeline Wijaya",
+      "nickname": "Delynn",
+      "type": "DREAM"
+    },
+    {
+      "jkt48_member_id": 6,
+      "code": "AFERA_THALIA",
+      "name": "Afera Thalia",
+      "nickname": "Fera",
+      "type": "TRAINEE"
+    },
+    {
+      "jkt48_member_id": 22,
+      "code": "ANGELINA_CHRISTY",
+      "name": "Angelina Christy",
+      "nickname": "Christy",
+      "type": "PASSION"
+    },
+    {
+      "jkt48_member_id": 26,
+      "code": "ANINDYA_RAMADHANI",
+      "name": "Anindya Ramadhani",
+      "nickname": "Anindya",
+      "type": "LOVE"
+    },
+    {
+      "jkt48_member_id": 28,
+      "code": "ASTRELLA_VIRGIANANDA",
+      "name": "Astrella Virgiananda",
+      "nickname": "Virgi",
+      "type": "TRAINEE"
+    },
+    {
+      "jkt48_member_id": 31,
+      "code": "AURELLIA",
+      "name": "Aurellia",
+      "nickname": "Lia",
+      "type": "LOVE"
+    },
+    {
+      "jkt48_member_id": 33,
+      "code": "AURHEL_ALANA",
+      "name": "Aurhel Alana",
+      "nickname": "Lana",
+      "type": "LOVE"
+    },
+    {
+      "jkt48_member_id": 39,
+      "code": "BONG_APRILLI",
+      "name": "Bong Aprilli",
+      "nickname": "Rilly",
+      "type": "TRAINEE"
+    },
+    {
+      "jkt48_member_id": 43,
+      "code": "CARISSA_DINI",
+      "name": "Carissa Dini",
+      "nickname": "Carissa",
+      "type": "TRAINEE"
+    },
+    {
+      "jkt48_member_id": 44,
+      "code": "CATHERINA_VALLENCIA",
+      "name": "Catherina Vallencia",
+      "nickname": "Erine",
+      "type": "PASSION"
+    },
+    {
+      "jkt48_member_id": 46,
+      "code": "CELLINE_THEFANI",
+      "name": "Celline Thefani",
+      "nickname": "Elin",
+      "type": "LOVE"
+    },
+    {
+      "jkt48_member_id": 52,
+      "code": "CHRISTABELLA_BONITA",
+      "name": "Christabella Bonita",
+      "nickname": "Bella",
+      "type": "TRAINEE"
+    },
+    {
+      "jkt48_member_id": 59,
+      "code": "CORNELIA_VANISA",
+      "name": "Cornelia Vanisa",
+      "nickname": "Oniel",
+      "type": "PASSION"
+    },
+    {
+      "jkt48_member_id": 60,
+      "code": "CYNTHIA_YAPUTERA",
+      "name": "Cynthia Yaputera",
+      "nickname": "Cynthia",
+      "type": "LOVE"
+    },
+    {
+      "jkt48_member_id": 64,
+      "code": "DENA_NATALIA",
+      "name": "Dena Natalia",
+      "nickname": "Danella",
+      "type": "PASSION"
+    },
+    {
+      "jkt48_member_id": 67,
+      "code": "DESY_NATALIA",
+      "name": "Desy Natalia",
+      "nickname": "Daisy",
+      "type": "PASSION"
+    },
+    {
+      "jkt48_member_id": 82,
+      "code": "FAHIRA_PUTRI",
+      "name": "Fahira Putri",
+      "nickname": "Fahira",
+      "type": "TRAINEE"
+    },
+    {
+      "jkt48_member_id": 85,
+      "code": "FATIMAH_AZZAHRA",
+      "name": "Fatimah Azzahra",
+      "nickname": "Rara",
+      "type": "TRAINEE"
+    },
+    {
+      "jkt48_member_id": 88,
+      "code": "FEBRIOLA_SINAMBELA",
+      "name": "Febriola Sinambela",
+      "nickname": "Olla",
+      "type": "DREAM"
+    },
+    {
+      "jkt48_member_id": 89,
+      "code": "FENI_FITRIYANTI",
+      "name": "Feni Fitriyanti",
+      "nickname": "Feni",
+      "type": "PASSION"
+    },
+    {
+      "jkt48_member_id": 91,
+      "code": "FIONY_ALVERIA",
+      "name": "Fiony Alveria",
+      "nickname": "Fiony",
+      "type": "LOVE"
+    },
+    {
+      "jkt48_member_id": 94,
+      "code": "FREYA_JAYAWARDANA",
+      "name": "Freya Jayawardana",
+      "nickname": "Freya",
+      "type": "DREAM"
+    },
+    {
+      "jkt48_member_id": 96,
+      "code": "FRITZY_ROSMERIAN",
+      "name": "Fritzy Rosmerian",
+      "nickname": "Fritzy",
+      "type": "LOVE"
+    },
+    {
+      "jkt48_member_id": 97,
+      "code": "GABRIELA_ABIGAIL",
+      "name": "Gabriela Abigail",
+      "nickname": "Ella",
+      "type": "DREAM"
+    },
+    {
+      "jkt48_member_id": 104,
+      "code": "GITA_SEKAR_ANDARINI",
+      "name": "Gita Sekar Andarini",
+      "nickname": "Gita",
+      "type": "DREAM"
+    },
+    {
+      "jkt48_member_id": 105,
+      "code": "GRACE_OCTAVIANI",
+      "name": "Grace Octaviani",
+      "nickname": "Gracie",
+      "type": "LOVE"
+    },
+    {
+      "jkt48_member_id": 107,
+      "code": "GREESELLA_ADHALIA",
+      "name": "Greesella Adhalia",
+      "nickname": "Greesel",
+      "type": "DREAM"
+    },
+    {
+      "jkt48_member_id": 108,
+      "code": "HAGIA_SOPIA",
+      "name": "Hagia Sopia",
+      "nickname": "Giaa",
+      "type": "TRAINEE"
+    },
+    {
+      "jkt48_member_id": 111,
+      "code": "HEIDI_SUYANGGA",
+      "name": "Heidi Suyangga",
+      "nickname": "Heidi",
+      "type": "TRAINEE"
+    },
+    {
+      "jkt48_member_id": 112,
+      "code": "HELISMA_PUTRI",
+      "name": "Helisma Putri",
+      "nickname": "Eli",
+      "type": "DREAM"
+    },
+    {
+      "jkt48_member_id": 114,
+      "code": "HILLARY_ABIGAIL",
+      "name": "Hillary Abigail",
+      "nickname": "Lily",
+      "type": "LOVE"
+    },
+    {
+      "jkt48_member_id": 115,
+      "code": "HUMAIRA_RAMADHANI",
+      "name": "Humaira Ramadhani",
+      "nickname": "Maira",
+      "type": "TRAINEE"
+    },
+    {
+      "jkt48_member_id": 116,
+      "code": "INDAH_CAHYA",
+      "name": "Indah Cahya",
+      "nickname": "Indah",
+      "type": "LOVE"
+    },
+    {
+      "jkt48_member_id": 120,
+      "code": "JACQUELINE_IMMANUELA",
+      "name": "Jacqueline Immanuela",
+      "nickname": "Ekin",
+      "type": "TRAINEE"
+    },
+    {
+      "jkt48_member_id": 121,
+      "code": "JAZZLYN_TRISHA",
+      "name": "Jazzlyn Trisha",
+      "nickname": "Trisha",
+      "type": "LOVE"
+    },
+    {
+      "jkt48_member_id": 123,
+      "code": "JEMIMA_EVODIE",
+      "name": "Jemima Evodie",
+      "nickname": "Jemima",
+      "type": "TRAINEE"
+    },
+    {
+      "jkt48_member_id": 127,
+      "code": "JESSICA_CHANDRA",
+      "name": "Jessica Chandra",
+      "nickname": "Jessi",
+      "type": "PASSION"
+    },
+    {
+      "jkt48_member_id": 131,
+      "code": "JESSLYN_ELLY",
+      "name": "Jesslyn Elly",
+      "nickname": "Lyn",
+      "type": "DREAM"
+    },
+    {
+      "jkt48_member_id": 143,
+      "code": "KATHRINA_IRENE",
+      "name": "Kathrina Irene",
+      "nickname": "Kathrina",
+      "type": "PASSION"
+    },
+    {
+      "jkt48_member_id": 148,
+      "code": "LULU_SALSABILA",
+      "name": "Lulu Salsabila",
+      "nickname": "Lulu",
+      "type": "PASSION"
+    },
+    {
+      "jkt48_member_id": 152,
+      "code": "MARSHA_LENATHEA",
+      "name": "Marsha Lenathea",
+      "nickname": "Marsha",
+      "type": "DREAM"
+    },
+    {
+      "jkt48_member_id": 155,
+      "code": "MAXINE_FAYE",
+      "name": "Maxine Faye",
+      "nickname": "Maxine",
+      "type": "TRAINEE"
+    },
+    {
+      "jkt48_member_id": 159,
+      "code": "MICHELLE_ALEXANDRA",
+      "name": "Michelle Alexandra",
+      "nickname": "Michie",
+      "type": "LOVE"
+    },
+    {
+      "jkt48_member_id": 161,
+      "code": "MICHELLE_LEVIA",
+      "name": "Michelle Levia",
+      "nickname": "Levi",
+      "type": "PASSION"
+    },
+    {
+      "jkt48_member_id": 162,
+      "code": "MIKAELA_KUSJANTO",
+      "name": "Mikaela Kusjanto",
+      "nickname": "Mikaela",
+      "type": "TRAINEE"
+    },
+    {
+      "jkt48_member_id": 166,
+      "code": "MUTIARA_AZZAHRA",
+      "name": "Mutiara Azzahra",
+      "nickname": "Muthe",
+      "type": "PASSION"
+    },
+    {
+      "jkt48_member_id": 175,
+      "code": "NAYLA_SUJI",
+      "name": "Nayla Suji",
+      "nickname": "Nayla",
+      "type": "LOVE"
+    },
+    {
+      "jkt48_member_id": 178,
+      "code": "NINA_TUTACHIA",
+      "name": "Nina Tutachia",
+      "nickname": "Nachia",
+      "type": "DREAM"
+    },
+    {
+      "jkt48_member_id": 182,
+      "code": "NUR_INTAN",
+      "name": "Nur Intan",
+      "nickname": "Intan",
+      "type": "TRAINEE"
+    },
+    {
+      "jkt48_member_id": 185,
+      "code": "OLINE_MANUEL",
+      "name": "Oline Manuel",
+      "nickname": "Oline",
+      "type": "DREAM"
+    },
+    {
+      "jkt48_member_id": 194,
+      "code": "PUTRY_JAZYTA",
+      "name": "Putry Jazyta",
+      "nickname": "Jazzy",
+      "type": "TRAINEE"
+    },
+    {
+      "jkt48_member_id": 195,
+      "code": "RAISHA_SYIFA",
+      "name": "Raisha Syifa",
+      "nickname": "Raisha",
+      "type": "PASSION"
+    },
+    {
+      "jkt48_member_id": 196,
+      "code": "RALYNE_VAN_IRWAN",
+      "name": "Ralyne Van Irwan",
+      "nickname": "Ralyne",
+      "type": "TRAINEE"
+    },
+    {
+      "jkt48_member_id": 204,
+      "code": "RIBKA_BUDIMAN",
+      "name": "Ribka Budiman",
+      "nickname": "Ribka",
+      "type": "PASSION"
+    },
+    {
+      "jkt48_member_id": 221,
+      "code": "SHABILQIS_NAILA",
+      "name": "Shabilqis Naila",
+      "nickname": "Nala",
+      "type": "DREAM"
+    },
+    {
+      "jkt48_member_id": 231,
+      "code": "SONA_KALYANA",
+      "name": "Sona Kalyana",
+      "nickname": "Sona",
+      "type": "TRAINEE"
+    },
+    {
+      "jkt48_member_id": 244,
+      "code": "VICTORIA_KIMBERLY",
+      "name": "Victoria Kimberly",
+      "nickname": "Kimmy",
+      "type": "PASSION"
+    }
+  ]
+}
